@@ -1,0 +1,14 @@
+C:\Users\rune1\source\repos\randomTal\bin\Debug\net7.0\randomTal.exe
+C:\Users\rune1\source\repos\randomTal\bin\Debug\net7.0\randomTal.deps.json
+C:\Users\rune1\source\repos\randomTal\bin\Debug\net7.0\randomTal.runtimeconfig.json
+C:\Users\rune1\source\repos\randomTal\bin\Debug\net7.0\randomTal.dll
+C:\Users\rune1\source\repos\randomTal\bin\Debug\net7.0\randomTal.pdb
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.AssemblyInfoInputs.cache
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.AssemblyInfo.cs
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.csproj.CoreCompileInputs.cache
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.dll
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\refint\randomTal.dll
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.pdb
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\randomTal.genruntimeconfig.cache
+C:\Users\rune1\source\repos\randomTal\obj\Debug\net7.0\ref\randomTal.dll
