@@ -1,0 +1,17 @@
+Million RandomNumbers
+
+CREATE DATABASE Performence
+
+CREATE TABLE Million(ID INT, RandomNumber INT)
+
+select count(ID), RandomNumber
+from Million
+group by RandomNumber
+order by count(RandomNumber) DESC
+-- im using the oone above and below to check for what is the rarest and the most common
+select count(ID), RandomNumber
+from Million
+group by RandomNumber
+order by count(RandomNumber) ASC
+
+ALTER TABLE Million add PRIMARY KEY (ID)
